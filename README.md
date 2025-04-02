@@ -5,6 +5,6 @@
         <th>교육 내용</th>
     </tr>
     <tr>
-        <td><a href="">Python</a></td>
+        <td><a href="https://github.com/gomtam/Python">Python</a></td>
     </tr>
 </table>
