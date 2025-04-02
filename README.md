@@ -5,6 +5,6 @@
         <th>교육 내용</th>
     </tr>
     <tr>
-        <td><a href="">250319</a></td>
+        <td><a href="">python</a></td>
     </tr>
 </table>
