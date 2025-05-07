@@ -8,6 +8,6 @@
         <td><a href="https://github.com/gomtam/Python">Python</a></td>
     </tr>
     <tr>
-        <td><a href="">Java</a></td>
+        <td><a href="https://github.com/gomtam/Java">Java</a></td>
     </tr>
 </table>
